@@ -1,0 +1,605 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "how are ya",
+                "Good morning!",
+                "Hey, long time no see!",
+                "Is anyone there?",
+                "How are you?",
+                "Hey, what's happening?",
+                "hey",
+                "Howdy!"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "I'm off then, goodbye!",
+                "Catch you later, buddy!",
+                "Bye",
+                "Have a Good day",
+                "see you",
+                "I am Leaving",
+                "See you when I see you!"
+            ]
+        },
+        {
+            "tag": "task",
+            "patterns": [
+                "what can u do for me",
+                "how u can help me"
+            ]
+        },
+        {
+            "tag": "creator",
+            "patterns": [
+                "you are made by whom",
+                "what is the name of the creators",
+                "creators",
+                "your creators"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "what are you",
+                "name",
+                "what are you called",
+                "what am i chatting to"
+            ]
+        },
+        {
+            "tag": "hours",
+            "patterns": [
+                "tell me something about college timing",
+                "college timing",
+                "when should i attend college",
+                "what are your hours",
+                "when is the college open"
+            ]
+        },
+        {
+            "tag": "number",
+            "patterns": [
+                "college telephone number",
+                "phone no",
+                "Can i get your phone number",
+                "phone number",
+                "how can i call you"
+            ]
+        },
+        {
+            "tag": "course",
+            "patterns": [
+                "list of courses offered in college",
+                "courses?",
+                "branches?",
+                "computer",
+                "list of courses",
+                "what are the courses offered in your college?",
+                "branches available at your college?",
+                "AI/Ml",
+                "can you tell me the courses available in UNI?"
+            ]
+        },
+        {
+            "tag": "fees",
+            "patterns": [
+                "tell me  about the fees",
+                "how much is the fees",
+                "information about fee",
+                "fees for first year",
+                "about the fees",
+                "what is the fees"
+            ]
+        },
+        {
+            "tag": "location",
+            "patterns": [
+                "college address",
+                "wheres the college",
+                "how can I reach college",
+                "address of college"
+            ]
+        },
+        {
+            "tag": "hostel",
+            "patterns": [
+                "distance between college and hostel",
+                "hostel facility",
+                "what is the hostel fee",
+                "do you guys have hostel",
+                "Is there any hostel",
+                "do you have hostel"
+            ]
+        },
+        {
+            "tag": "event",
+            "patterns": [
+                "list of events conducted in college",
+                "tell me about events",
+                "events organized"
+            ]
+        },
+        {
+            "tag": "floors",
+            "patterns": [
+                "floors in college",
+                "how tall is UNI's College of Engineering college building",
+                "building size"
+            ]
+        },
+        {
+            "tag": "library",
+            "patterns": [
+                "is there any library",
+                "Library books information",
+                "how many libraries",
+                "where can i get books",
+                "college library"
+            ]
+        },
+        {
+            "tag": "canteen",
+            "patterns": [
+                "Does college have canteen",
+                "is there any canteen",
+                "canteen",
+                "food facilities"
+            ]
+        },
+        {
+            "tag": "menu",
+            "patterns": [
+                "what foods can we get in college canteen",
+                "food menu",
+                "what is available in college canteen"
+            ]
+        },
+        {
+            "tag": "sem",
+            "patterns": [
+                "exam dates",
+                "when is semester",
+                "when is exam",
+                "semester"
+            ]
+        },
+        {
+            "tag": "facilities",
+            "patterns": [
+                "What facilities college provide",
+                "College facility"
+            ]
+        },
+        {
+            "tag": "college intake",
+            "patterns": [
+                "number of seats in each branch",
+                "seat allotment",
+                "maximum students intake"
+            ]
+        },
+        {
+            "tag": "random",
+            "patterns": [
+                "Will you marry me"
+            ]
+        },
+        {
+            "tag": "bad word",
+            "patterns": [
+                "hell",
+                "dumb ass",
+                "shut up"
+            ]
+        },
+        {
+            "tag": "vacation",
+            "patterns": [
+                "Holiday in these year",
+                "when will semester end",
+                "holiday list",
+                "When is holidays"
+            ]
+        },
+        {
+            "tag": "sports",
+            "patterns": [
+                "Sports activities",
+                "sports infrastructure",
+                "please provide sports and games information"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "thanks a lot",
+                "thanks bro",
+                "thanks"
+            ]
+        },
+        {
+            "tag": "weather",
+            "patterns": [
+                "How's the weather?",
+                "Weather forecast"
+            ]
+        },
+        {
+            "tag": "joke",
+            "patterns": [
+                "Do you know any jokes?",
+                "Tell me a joke"
+            ]
+        },
+        {
+            "tag": "machine learning",
+            "patterns": [
+                "ml",
+                "what do you mean by machine learning"
+            ]
+        },
+        {
+            "tag": "algorithms of Machine Learning",
+            "patterns": [
+                "tell me about machine learning algorithms",
+                "list some algorithms of Machine Learning"
+            ]
+        },
+        {
+            "tag": "machine learning applications",
+            "patterns": [
+                "Mention some applications of machine learning",
+                "machine learning applications ?"
+            ]
+        },
+        {
+            "tag": "deep learning",
+            "patterns": [
+                "tell me some about deep learning",
+                "deep learning"
+            ]
+        },
+        {
+            "tag": "neural network",
+            "patterns": [
+                "define neural network",
+                "What is a neural network?"
+            ]
+        },
+        {
+            "tag": "difference between artificial learning and machine learning",
+            "patterns": [
+                "artificial learning and machine learning",
+                "difference between artificial learning and machine learning"
+            ]
+        },
+        {
+            "tag": "days in week",
+            "patterns": [
+                "How many days in  week?"
+            ]
+        },
+        {
+            "tag": "days in year",
+            "patterns": [
+                "what is the number of  days in  normal year?"
+            ]
+        },
+        {
+            "tag": "colors in rainbow",
+            "patterns": [
+                "How many colors  in rainbow?"
+            ]
+        },
+        {
+            "tag": "ship of the desert",
+            "patterns": [
+                "who is the ship of the desert"
+            ]
+        },
+        {
+            "tag": "letters in english ",
+            "patterns": [
+                "How many letters in english ?"
+            ]
+        },
+        {
+            "tag": "consonants in english ",
+            "patterns": [
+                "How many consonants  in english?"
+            ]
+        },
+        {
+            "tag": "sides of triangle",
+            "patterns": [
+                "what is the number of sides in  triangle? "
+            ]
+        },
+        {
+            "tag": "shortest month",
+            "patterns": [
+                "Which month of the year has the least number of days?"
+            ]
+        },
+        {
+            "tag": "vowels in english",
+            "patterns": [
+                "what is the number of vowels in english?  "
+            ]
+        },
+        {
+            "tag": "king of jungle",
+            "patterns": [
+                "who is the king of jungle?"
+            ]
+        },
+        {
+            "tag": "primary colors",
+            "patterns": [
+                "what are primary colors? "
+            ]
+        },
+        {
+            "tag": "February leap year",
+            "patterns": [
+                "How many days are there in the month of February in a leap year?"
+            ]
+        },
+        {
+            "tag": "house made of ice",
+            "patterns": [
+                "What do you call a house made of ice?"
+            ]
+        },
+        {
+            "tag": "tallest animal",
+            "patterns": [
+                "Which is the tallest animal in the world?"
+            ]
+        },
+        {
+            "tag": "festival of colors",
+            "patterns": [
+                "what festival is known as the festival of colors?"
+            ]
+        },
+        {
+            "tag": "festival of light",
+            "patterns": [
+                "what festival is known as the festival of light?"
+            ]
+        },
+        {
+            "tag": "top color in rainbow",
+            "patterns": [
+                "tell me top color in rainbow"
+            ]
+        },
+        {
+            "tag": "festival of flowers",
+            "patterns": [
+                "Which festival is known as the \u00e2\u20ac\u02dcFestival of flowers\u00e2\u20ac\u2122?"
+            ]
+        },
+        {
+            "tag": "sunrise direction",
+            "patterns": [
+                "In which direction does the sunrise?"
+            ]
+        },
+        {
+            "tag": "largest flower",
+            "patterns": [
+                "what is the largest flower?"
+            ]
+        },
+        {
+            "tag": "hours in two days",
+            "patterns": [
+                "what is the number of hours in two days?"
+            ]
+        },
+        {
+            "tag": "months with 31 days",
+            "patterns": [
+                "How many months of the year have 31 days?"
+            ]
+        },
+        {
+            "tag": "weeks in year",
+            "patterns": [
+                "what is the number of weeks in  year?"
+            ]
+        },
+        {
+            "tag": "colors in rainbow",
+            "patterns": [
+                "What are the colors in a rainbow?"
+            ]
+        },
+        {
+            "tag": "bones in human body",
+            "patterns": [
+                "How many bones does an adult human have?"
+            ]
+        },
+        {
+            "tag": "first man on moon",
+            "patterns": [
+                "Who was the first man to walk on the moon?"
+            ]
+        },
+        {
+            "tag": "millimeters in cm",
+            "patterns": [
+                "what is the number of millimeters in 1cm "
+            ]
+        },
+        {
+            "tag": "nearest star to earth",
+            "patterns": [
+                "what is the nearest star to planet earth? "
+            ]
+        },
+        {
+            "tag": "longest river",
+            "patterns": [
+                "What is the longest river on the earth?"
+            ]
+        },
+        {
+            "tag": "source of energy",
+            "patterns": [
+                "Which is the source of energy for earth?"
+            ]
+        },
+        {
+            "tag": "lungs in human body",
+            "patterns": [
+                "what is the number of lungs in the human body?"
+            ]
+        },
+        {
+            "tag": "taste of water",
+            "patterns": [
+                "What is the taste of the water?"
+            ]
+        },
+        {
+            "tag": "tallest mountain",
+            "patterns": [
+                "What is the tallest mountain in the world?"
+            ]
+        },
+        {
+            "tag": "fastest animal",
+            "patterns": [
+                "Which is the fastest animal in the world?"
+            ]
+        },
+        {
+            "tag": "dark continent",
+            "patterns": [
+                "Which continent is known as Dark continent?"
+            ]
+        },
+        {
+            "tag": "red planet",
+            "patterns": [
+                "Which planet is known as the Red Planet?"
+            ]
+        },
+        {
+            "tag": "most sensitive organ",
+            "patterns": [
+                "Which is the most sensitive organ in our body?"
+            ]
+        },
+        {
+            "tag": "largest ocean in world",
+            "patterns": [
+                "Which is the largest ocean in the world?"
+            ]
+        },
+        {
+            "tag": "world environment day",
+            "patterns": [
+                "What day is  World Environment Day?"
+            ]
+        },
+        {
+            "tag": "years in century",
+            "patterns": [
+                "what is the number years are  in a century?"
+            ]
+        },
+        {
+            "tag": "largest country in world",
+            "patterns": [
+                "Which is the largest country in the world?"
+            ]
+        },
+        {
+            "tag": "inventor of computer",
+            "patterns": [
+                "Who is the inventor the Computer?"
+            ]
+        },
+        {
+            "tag": "inventor of radio",
+            "patterns": [
+                "Who is the inventor of Radio?"
+            ]
+        },
+        {
+            "tag": "teeth in adult human",
+            "patterns": [
+                "How many teeth does  adult have?"
+            ]
+        },
+        {
+            "tag": "population of world",
+            "patterns": [
+                "what is the number of people are  in the world?"
+            ]
+        },
+        {
+            "tag": "continent with most countries",
+            "patterns": [
+                "Which is the continent with the most number of countries?"
+            ]
+        },
+        {
+            "tag": "common non contagious disease",
+            "patterns": [
+                "Which is the most common non-contagious disease in the world?"
+            ]
+        },
+        {
+            "tag": "planets in solar system",
+            "patterns": [
+                "what is the number of planets are in our solar system? "
+            ]
+        },
+        {
+            "tag": "hottest continent on earth",
+            "patterns": [
+                "Which is the hottest continent on Earth?"
+            ]
+        },
+        {
+            "tag": "smallest continent in world",
+            "patterns": [
+                "Which is the smallest continent in the world?"
+            ]
+        },
+        {
+            "tag": "painter of mona lisa",
+            "patterns": [
+                "Who is the painter of Mona Lisa?"
+            ]
+        },
+        {
+            "tag": "inventor of telephone",
+            "patterns": [
+                "who is the inventer of the telephone? "
+            ]
+        },
+        {
+            "tag": "meaning of www",
+            "patterns": [
+                "What is meaning of www?"
+            ]
+        },
+        {
+            "tag": "earth surface covered by ocean",
+            "patterns": [
+                "How much of Earth\u00e2\u20ac\u2122s surface is covered by ocean?"
+            ]
+        }
+    ]
+}

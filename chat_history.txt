@@ -1,0 +1,418 @@
+You: hey
+Haidy: I do not understand...
+You: hi
+Haidy: I do not understand...
+You: hi
+Haidy: I do not understand...
+You: hey
+Haidy: I do not understand...
+You: hello
+Haidy: I do not understand...
+You: hi
+Haidy: I do not understand...
+You: hey
+Haidy: I do not understand...
+You: hi
+Haidy: I do not understand...
+You: hi
+Haidy: Hello, how can I help you today?
+You: hello
+Haidy: Hey!
+You: how are you
+Haidy: Hey, how can I assist you?
+You: what is your name
+Haidy: You can call me Mind Reader.
+You: who is your developer
+Haidy: Students created me
+You: tell me about fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: what is machine learning
+Haidy: Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience. For example: Robots are programmed so that they can perform the task based on data they gather from sensors. It automatically learns programs from data.
+You: tell me about library
+Haidy: There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target="blank" href="ADD LIBRARY DETAIL LINK">here</a>
+You: what are courses in college
+Haidy: Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.
+You: how many colors in rainbow
+Haidy: I do not understand...
+You: how many colors in rain bow
+Haidy: I do not understand...
+You: hey
+Haidy: Hello, how can I help you today?
+You: hi
+Haidy: Hi, how are you today?
+You: what is your name
+Haidy: You can call me Mind Reader.
+You: who is your developer
+Haidy: College students
+You: tell me about fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: tell me about library
+Haidy: There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target="blank" href="ADD LIBRARY DETAIL LINK">here</a>
+You: tell me about courses in college
+Haidy: Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.
+You: what is machine learning
+Haidy: Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience. For example: Robots are programmed so that they can perform the task based on data they gather from sensors. It automatically learns programs from data.
+You: what is neural network
+
+You: what is neural network
+
+You: hi
+Haidy: Hey there, nice to chat with you!
+You: how many color in rainbow
+Haidy: I do not understand...
+You: how many colors in rainbow
+Haidy: I do not understand...
+You:  colors in rainbow
+Haidy: Violet, Indigo, Blue, Green, Yellow, Orange, Red
+You: fastest animal in the  world
+Haidy: Cheetah
+You: largest animal in the  world
+Haidy: I do not understand...
+You: what is the largest animal in the  world
+Haidy: I do not understand...
+You: what is the largest mountain
+Haidy: College is open 8am-5pm Monday-Saturday!
+You: top color in rainbow
+Haidy: Red
+You: largest flower
+Haidy: I do not understand...
+You: what is the largest flower
+Haidy: Nile
+You:  largest mountain
+Haidy: I do not understand...
+You: hi
+Haidy: I do not understand...
+You: hey
+Haidy: Hi there, how can I help?
+You: hello
+Haidy: I do not understand...
+You: how are you
+Haidy: I'm Mind Reader
+You: who is your developer
+Haidy: Students created me
+You: hi
+Haidy: Hey there, nice to chat with you!
+You: hey
+Haidy: Hey!
+You: hello
+Haidy: Hello!
+You: who created you
+Haidy: I'm Mind Reader
+You: who your developer
+Haidy: Students created me
+You: tell me about fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: tell me about library
+Haidy: There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target="blank" href="ADD LIBRARY DETAIL LINK">here</a>
+You: how many colors in rainbow
+Haidy: Red
+You: colors in rainbow
+Haidy: Violet, Indigo, Blue, Green, Yellow, Orange, Red
+You: top color in rainbow
+Haidy: Red
+You: biggest ocean
+Haidy: I do not understand...
+You: what is the biggest ocean in the world
+Haidy: Pacific Ocean
+You: what is the tallest mountain in the world
+Haidy: Mount Everest
+You:  tallest mountain in the world
+Haidy: Mount Everest
+You:  tallest animal 
+Haidy: Our university has canteen with variety of food available
+You:  tallest animal in the world
+Haidy: Giraffe
+You:  fastest  animal in the world
+Haidy: Cheetah
+You: hi
+Haidy: Hello, how can I help you today?
+You: hello
+Haidy: Hey, what brings you here?
+You: how are you
+Haidy: Hello!
+You: who are you
+Haidy: I am a Chatbot.
+You: who created you
+Haidy: Developed by students
+You: who is your developer
+Haidy: College students
+You: top color in rainbow
+Haidy: Red
+You:  colors in rainbow
+Haidy: Violet, Indigo, Blue, Green, Yellow, Orange, Red
+You: tallest mountain in the world
+Haidy: Mount Everest
+You: tallest animal in the world
+Haidy: Giraffe
+You: fastest  animal in the world
+Haidy: Cheetah
+You: biggest country  in the world
+Haidy: I do not understand...
+You: largest  country  in the world
+Haidy: Russia (By area)
+You: biggest ocean in the world
+Haidy: Pacific Ocean
+You: what is machine learning
+Haidy: Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience. For example: Robots are programmed so that they can perform the task based on data they gather from sensors. It automatically learns programs from data.
+You: what is neural network
+Haidy: A neural network is a computational model inspired by the structure and functioning of the human brain's biological neural networks. It consists of interconnected nodes, called neurons or units, organized into layers. These layers typically include an input layer, one or more hidden layers, and an output layer
+You: what is deep learning
+Haidy: Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience. For example: Robots are programmed so that they can perform the task based on data they gather from sensors. It automatically learns programs from data.
+You: hi
+Haidy: Hi there, how can I help?
+You: hey
+Haidy: Hey, how can I assist you?
+You: hey
+Haidy: Hello, how can I help you today?
+You: hello
+Haidy: Hey, how can I assist you?
+You: how are you
+Haidy: I am your helper
+You: who you are
+Haidy: I'm Mind Reader
+You: whocreated you
+Haidy: I do not understand...
+You: who created you
+Haidy: Students created me
+You: who is your developer
+Haidy: Developed by students
+You: tell me about fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: tell me about library
+Haidy: There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target="blank" href="ADD LIBRARY DETAIL LINK">here</a>
+You: tell me about courses
+Haidy: Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.
+You: what is machine learning
+Haidy: Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience. For example: Robots are programmed so that they can perform the task based on data they gather from sensors. It automatically learns programs from data.
+You: what is deep learning
+
+You: what is deep learning
+
+You: what is deep learning
+
+You: what is deep learning
+
+You: what is deep learning
+
+You: what is deep learning
+
+You: what is deep learning
+
+You: colors in rainbow
+Haidy: Violet, Indigo, Blue, Green, Yellow, Orange, Red
+You: top color in rainbow
+Haidy: Red
+You: tallest mountain in the world
+Haidy: Mount Everest
+You: tallest animal in the world
+Haidy: Giraffe
+You: fastest  animal in the world
+Haidy: Cheetah
+You: biggest ocean in the world 
+Haidy: I do not understand...
+You: biggest country in the world 
+Haidy: I do not understand...
+You: hi
+Haidy: I do not understand...
+You: hello
+Haidy: Hello, how can I help you today?
+You: hey
+Haidy: Hi there, how can I help?
+You: hi
+Haidy: I do not understand...
+You: who are you
+Haidy: I'm Mind Reader
+You: who created you
+Haidy: Developed by students
+You: who is your developer
+Haidy: Students created me
+You: what is machine learning
+Haidy: Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience. For example: Robots are programmed so that they can perform the task based on data they gather from sensors. It automatically learns programs from data.
+You: what is neural network
+Haidy: A neural network is a computational model inspired by the structure and functioning of the human brain's biological neural networks. It consists of interconnected nodes, called neurons or units, organized into layers. These layers typically include an input layer, one or more hidden layers, and an output layer
+You: what is deep learning
+
+You: colors in rainbow
+Haidy: Violet, Indigo, Blue, Green, Yellow, Orange, Red
+You: top color in rainbow
+Haidy: I do not understand...
+You: what is top color in rainbow
+Haidy: Red
+You: difference between artificial learning and machine learning
+Haidy: artificial learning is a broader concept that encompasses various learning techniques, including machine learning. Machine learning specifically deals with algorithms and methods for learning from data, making predictions, and improving performance over time.
+You: tell me about fees
+Haidy: I do not understand...
+You: tell me about fees
+Haidy: I do not understand...
+You: what is  fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: tell me about library
+Haidy: There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target="blank" href="ADD LIBRARY DETAIL LINK">here</a>
+You: tell me about courses
+Haidy: Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.
+You: hi
+Haidy: I do not understand...
+You: hey
+Haidy: Nice to meet you!
+You: hello
+Haidy: Hey there, nice to chat with you!
+You: Hi
+Haidy: I do not understand...
+You: tell me about fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: tell me about library
+Haidy: There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target="blank" href="ADD LIBRARY DETAIL LINK">here</a>
+You: what is deep learning
+Haidy: deep learning  is part of a broader family of machine learning methods based on artificial neural networks with representation learning.
+You: difference between artificial learning and machine learning
+Haidy: artificial learning is a broader concept that encompasses various learning techniques, including machine learning. Machine learning specifically deals with algorithms and methods for learning from data, making predictions, and improving performance over time.
+You: tell me about neural network
+Haidy: A neural network is a computational model inspired by the structure and functioning of the human brain's biological neural networks. It consists of interconnected nodes, called neurons or units, organized into layers. These layers typically include an input layer, one or more hidden layers, and an output layer
+You: tell me about machine learning applications
+Haidy: following are some applications of machine learning: 1.Traffic Alerts 2.Social Media 3.Transportation and Commuting 4.Products Recommendations 5.Virtual Personal Assistants 6.Self Driving Cars 7.Dynamic Pricing 8.Google Translate 9.Online Video Streaming 10.Fraud Detection
+You: tell me about machine learning algorithms
+Haidy: Decision Trees,KNN,SVC,Random Forest,Bagging and Boosting Classifiers,Voting Classifier,K-mean and many other algorithms
+You: tallest animal
+Haidy: I do not understand...
+You: tallest animal in the world
+Haidy: Giraffe
+You: tallest mountain 
+Haidy: I do not understand...
+You: tallest mountain  in the world
+Haidy: Mount Everest
+You: biggest ocean  in the world
+Haidy: Pacific Ocean
+You: largest country in the world
+Haidy: Russia (By area)
+You: weeks in year
+Haidy: 52
+You: hours in 2 days
+Haidy: College is open 8am-5pm Monday-Saturday!
+You: hours in two days
+Haidy: College is open 8am-5pm Monday-Saturday!
+You: hi
+Haidy: Hello, how can I assist you?
+You: hey
+Haidy: Hey, what brings you here?
+You: hello
+Haidy: Hey, what can I do for you?
+You: fastest animal
+Haidy: I do not understand...
+You: fastest anima
+Haidy: I do not understand...
+You: fastest animal in the world
+Haidy: Cheetah
+You: tallest  animal in the world
+Haidy: Giraffe
+You: tallest  mountain in the world
+Haidy: Mount Everest
+You: tallest  mountain in the world
+Haidy: Mount Everest
+You: tell me about the college
+Haidy: I do not understand...
+You: tell me about the fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: tell me about fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: hi
+Haidy: Hey there, nice to chat with you!
+You: tell me about fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: tell me about library
+Haidy: There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target="blank" href="ADD LIBRARY DETAIL LINK">here</a>
+You: what are courses in college
+Haidy: Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.
+You: what is machine learning
+Haidy: Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience. For example: Robots are programmed so that they can perform the task based on data they gather from sensors. It automatically learns programs from data.
+You: what is neural network
+Haidy: A neural network is a computational model inspired by the structure and functioning of the human brain's biological neural networks. It consists of interconnected nodes, called neurons or units, organized into layers. These layers typically include an input layer, one or more hidden layers, and an output layer
+You: tell me the difference between artificial learning and machine learning
+Haidy: artificial learning is a more huge concept that encompasses various learning techniques, including machine learning. Machine learning specifically deals with algorithms and methods for learning from data, making predictions, and improving performance over time.
+You: hi
+Haidy: Hey!
+You: hello
+Haidy: Hey, what brings you here?
+You: who created you
+Haidy: College students
+You: who you are
+Haidy: You can call me Mind Reader.
+You: tell me about courses in college
+Haidy: Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.
+You: tell me about fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: hi
+Haidy: I do not understand...
+You: hello
+Haidy: Good to see you again!
+You: hey
+Haidy: Hello, how can I help you today?
+You: hi
+Haidy: I do not understand...
+You: hey
+Haidy: Hi, how's everything going?
+You: hello
+Haidy: Hey there, nice to chat with you!
+You: who created you
+Haidy: Students created me
+You: who you are
+Haidy: I'm Mind Reader
+You: tall me about courses in college
+Haidy: I do not understand...
+You: tall me about courses in college
+Haidy: I do not understand...
+You: tall me about fees
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: tall me about library
+Haidy: There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target="blank" href="ADD LIBRARY DETAIL LINK">here</a>
+You: what is top color in rainbow
+Haidy: Red
+You: what are colors in rainbow
+Haidy: Violet, Indigo, Blue, Green, Yellow, Orange, Red
+You: who is ship of desert
+Haidy: I do not understand...
+You: who is called ship of desert
+Haidy: You can contact at: NUMBER
+You: who is called Ship of Desert
+Haidy: You can contact at: NUMBER
+You: whom is called Ship of Desert
+Haidy: You can contact at: NUMBER
+You: hey
+Haidy: Hi there, how can I help?
+You: hello
+Haidy: I do not understand...
+You: hi
+Haidy: Nice to meet you!
+You: hi
+Haidy: I do not understand...
+You: hey
+Haidy: Hey there, nice to chat with you!
+You: hello
+Haidy: Hey, what brings you here?
+You: hello
+Haidy: Hey!
+You: who created you
+Haidy: College students
+You: who you are
+Haidy: I am your helper
+You: tell me about fees in college
+Haidy: For Fee detail visit <a target="_blank" href="LINK"> here</a>
+You: tell me about library in college
+Haidy: There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target="blank" href="ADD LIBRARY DETAIL LINK">here</a>
+You: tell me about courses
+Haidy: Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering.
+You: what is machine learning 
+Haidy: Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience. For example: Robots are programmed so that they can perform the task based on data they gather from sensors. It automatically learns programs from data.
+You: what is neural network
+Haidy: A neural network is a computational model inspired by the structure and functioning of the human brain's biological neural networks. It consists of interconnected nodes, called neurons or units, organized into layers. These layers typically include an input layer, one or more hidden layers, and an output layer
+You: tell me difference between artificial learning and machine learning
+Haidy: artificial learning is a more huge concept that encompasses various learning techniques, including machine learning. Machine learning specifically deals with algorithms and methods for learning from data, making predictions, and improving performance over time.
+You: what is top color in rainbow
+Haidy: Red
+You: what are colors in rainbow
+Haidy: Violet, Indigo, Blue, Green, Yellow, Orange, Red
+You: who is known as ship of the desert 
+Haidy: I do not understand...
+You: who is called  ship of the desert 
+Haidy: You can contact at: NUMBER
+You: how many letters in english
+Haidy: I do not understand...
